@@ -1,0 +1,46 @@
+# Copyright (C) 2017 Selldorado
+# This file is distributed under the same license as the Selldorado Mastertag package.
+msgid ""
+msgstr ""
+"Project-Id-Version: selldorado-mastertag \n"
+"Report-Msgid-Bugs-To: contact@effiliation.com\n"
+"POT-Creation-Date: 2017-06-13 17:01+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: php/selldorado-mastertag-settings-datalayer.php:12
+msgid "No"
+msgstr ""
+
+#: php/selldorado-mastertag-settings-datalayer.php:17
+msgid "Yes"
+msgstr ""
+
+#: selldorado-mastertag.php:56
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: selldorado-mastertag.php:66
+msgid "Selldorado Mastertag"
+msgstr ""
+
+#: selldorado-mastertag.php:67
+msgid "Please input your advertiser id here :"
+msgstr ""
+
+#: selldorado-mastertag.php:68
+msgid "Activate dataLayer only ?  :"
+msgstr ""
+
+#: selldorado-mastertag.php:72
+msgid "Please insert your advertiser ID in ordrer to activate your Mastertag"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Selldorado's module installs automatically on your wooCommerce shop the technical elements required to launch campaigns on Selldorado. So, you can directly launch your advertising campaigns on Selldorado without technical intervention."
+msgstr ""
